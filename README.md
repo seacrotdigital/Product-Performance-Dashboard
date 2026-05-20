@@ -97,17 +97,20 @@ Customer sentiment and inventory analysis including:
 # 🖼 Dashboard Preview
 
 ## Product Performance Dashboard
-![Dashboard 1](dashboard1.png)
+<img width="1164" height="651" alt="Screenshot 2026-05-19 200341" src="https://github.com/user-attachments/assets/9889d5ee-5105-4902-8324-a23a9285fd7c" />
+
 
 ---
 
 ## Product Insights
-![Dashboard 2](dashboard2.png)
+<img width="1160" height="652" alt="Screenshot 2026-05-19 200359" src="https://github.com/user-attachments/assets/61607b33-8e76-403b-ab51-7145566b6b6c" />
+
 
 ---
 
 ## Product Signals
-![Dashboard 3](dashboard3.png)
+<img width="1162" height="653" alt="Screenshot 2026-05-19 200418" src="https://github.com/user-attachments/assets/ff336d34-2717-4aa5-95bf-e3a374520642" />
+
 
 ---
 
